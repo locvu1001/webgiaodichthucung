@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;AccountModel.java&apos; to &apos;new-jdbc-2020/src/main/java/com.laptrinhjavaweb.model&apos;&#x0D;&#x0A;- Original project: &apos;new-jdbc-2020&apos;&#x0D;&#x0A;- Destination element: &apos;new-jdbc-2020/src/main/java/com.laptrinhjavaweb.model&apos;&#x0D;&#x0A;- Original element: &apos;com.laptrinhjavaweb.model.AccountModel.java&apos;" description="Copy compilation unit" destination="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.laptrinhjavaweb.model" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.laptrinhjavaweb.model{AccountModel.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1605533527535" units="1" version="1.0"/>
+</session>
